@@ -13,6 +13,6 @@ function doWhile(num) {
   return suma;
 }
 
-console.log(doWhile(10))
+console.log(doWhile(1))
 
 module.exports = doWhile;
