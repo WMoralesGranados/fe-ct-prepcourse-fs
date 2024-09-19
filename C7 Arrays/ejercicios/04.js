@@ -4,4 +4,5 @@ function agregarItemAlFinalDelArray(array, elemento) {
   // Tu código:
 }
 
+console.log(agregarItemAlFinalDelArray([1,2,3,4,5], 7))
 module.exports = agregarItemAlFinalDelArray;

@@ -4,4 +4,6 @@ function ordenarArray(array) {
   // Tu código:
 }
 
+console.log(ordenarArray(["c",'a','g','b']));
+
 module.exports = ordenarArray;

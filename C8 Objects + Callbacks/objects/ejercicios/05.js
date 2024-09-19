@@ -4,4 +4,7 @@ const listarPropiedades = (objeto) => {
   // Tu código:
 };
 
+
+console.log(listarPropiedades({nombre: 'willy', edad: 32}))
+
 module.exports = listarPropiedades;

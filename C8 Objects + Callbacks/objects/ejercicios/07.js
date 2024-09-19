@@ -9,4 +9,10 @@ function sort(sortBy, list) {
    // Tu código:
 }
 
+console.log(sort('a',[
+   { a: 4, b: 3 }, 
+   { a: 3, b: 2 }, 
+   { a: 2, b: 40 }
+] ));
+
 module.exports = sort;

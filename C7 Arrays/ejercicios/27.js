@@ -6,4 +6,6 @@ function dePalabrasAFrase(palabras) {
   // Tu código:
 }
 
+console.log(dePalabrasAFrase(['Hello', 'World','!']))
+
 module.exports = dePalabrasAFrase;

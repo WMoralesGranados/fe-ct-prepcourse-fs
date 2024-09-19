@@ -5,4 +5,6 @@ function mesesDelAño(array) {
   // Tu código:
 }
 
+console.log(mesesDelAño(['Enero','febrero','Noviembre','diciembre']))
+
 module.exports = mesesDelAño;

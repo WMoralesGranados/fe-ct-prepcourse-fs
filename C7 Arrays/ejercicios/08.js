@@ -5,4 +5,6 @@ function encontrarElemento(num, array) {
    // Tu código:
 }
 
+console.log(encontrarElemento(2,[5,6,7,2,8,9]))
+
 module.exports = encontrarElemento;

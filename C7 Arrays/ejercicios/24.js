@@ -7,4 +7,6 @@ function continueStatement(num) {
   // Tu código:
 }
 
+console.log(continueStatement(2))
+
 module.exports = continueStatement;

@@ -5,4 +5,6 @@ function encontrarPrimerMultiploDeN(n, secuencia) {
   // Tu código:
 }
 
+console.log(encontrarPrimerMultiploDeN(3,[1,2,12,3,5,7]))
+
 module.exports = encontrarPrimerMultiploDeN;

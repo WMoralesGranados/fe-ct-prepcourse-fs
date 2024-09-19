@@ -7,4 +7,6 @@ function esPalindromo(string) {
   // Tu código:
 }
 
+console.log(esPalindromo(null))
+console.log(esPalindromo('hola'))
 module.exports = esPalindromo;

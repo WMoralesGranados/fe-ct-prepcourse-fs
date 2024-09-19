@@ -4,4 +4,7 @@ function filter(arrayOfStrings) {
    // Tu código:
 }
 
+console.log(filter(['hola','arbol','casa','adrian']))
+
+
 module.exports = filter;

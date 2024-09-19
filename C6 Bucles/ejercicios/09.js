@@ -5,14 +5,6 @@ function conection(status) {
   // De lo contrario, presumimos que el usuario está "Offline".
   // Retornar el estado de conexión del usuario.
   // Tu código:
-  switch (status) {
-    case 1: 
-      return "Online"
-    case 2:
-      return "Away"
-    default:
-      return "Offline"
-  }
 }
 
 console.log(conection(1));

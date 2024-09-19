@@ -4,4 +4,6 @@ function todosIguales(array) {
   // Tu código:
 }
 
+console.log(todosIguales([2,2,2,2,2,2]))
+
 module.exports = todosIguales;

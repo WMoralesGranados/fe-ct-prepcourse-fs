@@ -4,5 +4,6 @@ function breakStatement(num) {
   // Si en algún momento el valor de la suma y la cantidad de iteraciones coinciden, debe interrumpirse la ejecución y retornar el string: "Se interrumpió la ejecución".
   // Tu código:
 }
+console.log(breakStatement(90));
 
 module.exports = breakStatement;

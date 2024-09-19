@@ -3,4 +3,6 @@ function promedioResultadosTest(resultadosTest) {
   // Tu código:
 }
 
+console.log(promedioResultadosTest([10,10,10,10,10]))
+
 module.exports = promedioResultadosTest;

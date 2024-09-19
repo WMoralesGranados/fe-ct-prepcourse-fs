@@ -5,4 +5,6 @@ function multiplicarArgumentos() {
   // Tu código:
 }
 
+console.log(multiplicarArgumentos());
+
 module.exports = multiplicarArgumentos;

@@ -4,5 +4,4 @@ function map(array, cb) {
   // Retorna el nuevo arreglo.
   // Tu código:
 }
-
 module.exports = map;

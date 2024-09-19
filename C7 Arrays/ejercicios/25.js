@@ -5,4 +5,5 @@ function contarParesConContinue(numeros) {
   // Tu código:
 }
 
+console.log(contarParesConContinue([1,2,3,4,6]));
 module.exports = contarParesConContinue;

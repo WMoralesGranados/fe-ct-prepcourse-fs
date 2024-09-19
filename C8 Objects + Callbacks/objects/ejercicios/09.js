@@ -3,6 +3,14 @@ function nuevoUsuario(nombre, email, password) {
   // Este debe tener las propiedades: "nombre", "email" y "password" con sus respectivos valores.
   // Retorna el objeto creado.
   // Tu código:
+  var usuario = {
+    nombre: nombre,
+    email: email,
+    password: password
+  }
+  return usuario;
 }
+
+console.log(nuevoUsuario('will','hola@gmail','perro'));
 
 module.exports = nuevoUsuario;

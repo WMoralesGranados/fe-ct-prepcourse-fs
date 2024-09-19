@@ -4,6 +4,8 @@ function encontrarNumeroFaltante(numeros) {
   // y retórnalo.
   // Devuelve null si el array es vacío o si no hay números faltantes.
   // Tu código:
+
 }
+console.log(encontrarNumeroFaltante([1,2,3,5,6,7]))
 
 module.exports = encontrarNumeroFaltante;
